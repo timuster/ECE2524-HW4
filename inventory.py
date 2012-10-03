@@ -123,7 +123,7 @@ def remove(arr):
 			write_funct(newA)
 			
 					 	 	
-		except KeyError:
+	except KeyError:
 		 	print "Invalid!"
 
 
